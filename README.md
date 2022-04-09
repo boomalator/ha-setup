@@ -18,3 +18,9 @@ Most of my HA is about lighting. I like light; I used to design theatrical light
 
 ## HA Server Hardware
 + Raspberry Pi 4B (Usually the 4GB variant) from [Solarbotics](https://www.solarbotics.com/product/701298) or [Amazon.ca](https://www.amazon.ca/CanaKit-Raspberry-Pi-Extreme-Kit/dp/B09Q4TQBSZ)
++ A2 Rated SD card. (64 to 256 GB, such as [Amazon](https://www.amazon.ca/Sandisk-SDSQXA2-064G-GN6MA-Extreme-microSD-Adapter/dp/B07FCMBLV6/ref=asc_df_B07FCMBLV6/?tag=googleshopc0c-20&linkCode=df0&hvadid=292991886665&hvpos=&hvnetw=g&hvrand=16254340582647489826&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001801&hvtargid=pla-523573402313&psc=1) or [Memory Express](https://www.memoryexpress.com/Products/MX75645),
+
+[Read more](./pi.md)
+
+
+
