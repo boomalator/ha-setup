@@ -1,4 +1,5 @@
 # ha-setup
+###### [Lights](./lights.md) ∗ [Future Projects](future.md)
 Notes and files for my home server and home automation setup
 
 As I start this file, my family and I are in the seemingly never-ended process of moving. Just a local move, about 3km, but it seems like as much work (and is taking longer!) that either of our international moves.
