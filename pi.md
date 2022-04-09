@@ -1,0 +1,8 @@
+# HA Server Hardware
++ Raspberry Pi 4B (Usually the 4GB variant) from [Solarbotics](https://www.solarbotics.com/product/701298) or [Amazon.ca](https://www.amazon.ca/CanaKit-Raspberry-Pi-Extreme-Kit/dp/B09Q4TQBSZ)
++ A2 Rated SD card. (64 to 256 GB, such as [Amazon](https://www.amazon.ca/Sandisk-SDSQXA2-064G-GN6MA-Extreme-microSD-Adapter/dp/B07FCMBLV6/ref=asc_df_B07FCMBLV6/?tag=googleshopc0c-20&linkCode=df0&hvadid=292991886665&hvpos=&hvnetw=g&hvrand=16254340582647489826&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001801&hvtargid=pla-523573402313&psc=1) or [Memory Express](https://www.memoryexpress.com/Products/MX75645),
+
+Not much to say about the Pi... except that I remember when they were supposed to be a cheap solution. :) For some reason, Amazon.ca seems to have only fairly expensive kits; don't know about Amazon US. Check your local retailers (or order online from Solarbotics). I have many Pi's. (Piae? Pium? Pieses?), and for testing will sometimes just swap the datacard.
+
+In my old age, I have decided that I only buy A2 memory cards and usually only at 256GB. I will "use up" stock of my small cards for doing things with the Pi, but life is too short to worry if I have the right SD card for the right camera/device in the bag. You can [read up](https://www.mymemory.co.uk/blog/a1-vs-a2-sandisk-microsd-card-whats-the-difference/) on the difference between A1 and A2, but in simple terms, anything without at least an A1 designation isn't suitable for application-style access with frequent writing. Amazon tends to have better prices, but Memory Express will price-match if it's "sold and fulfilled" by Amazon. I try to give my local vendors a chance, espeically if the difference is small.
+
