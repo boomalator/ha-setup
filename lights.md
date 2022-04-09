@@ -3,7 +3,7 @@ Most of my HA is about lighting. I like light; I used to design theatrical light
 
 ## Main Lights - Lutron
 
-AFter having many differnt odds-and-ends in the old place, I standardized on Lutron's Caseta for every last wired switch in the house. https://www.casetawireless.com/us/en. New switches and dimmers were installed before the interace hub was ready to move, so for several weeks, the automation consited of the linked remotes. Adding the hub and app adds reasonable programability even withtout the HA server. 
+AFter having many differnt odds-and-ends in the old place, I standardized on Lutron's Caseta for every last wired switch in the house. https://www.casetawireless.com/us/en. New switches and dimmers were installed before the interface hub was ready to move, so for several weeks, the automation consited of the linked remotes. Adding the hub and app adds reasonable programability even withtout the HA server. 
 
 I've used Lutron for a long time. In fact, I'm abandoning sevral bits of RadioRA (the original, no 2 nor 3) in the old house, including a [Chronos controller](https://www.lutron.com/TechnicalDocumentLibrary/044037b.pdf) that in it's day was about a grand.
 
